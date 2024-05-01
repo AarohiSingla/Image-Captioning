@@ -2,6 +2,8 @@
 
 ![img_cap_model_parial](https://github.com/AarohiSingla/Image-Captioning/assets/60029146/3665bf55-22df-4cfa-86f9-9ae3f8ba106d)
 
+##### This code is tested using Python 3.8 and Pytorch
+
 ### Output:
 
 ![generated_caption](https://github.com/AarohiSingla/Image-Captioning/assets/60029146/273918b5-c654-476c-bf13-3faae2363122)
