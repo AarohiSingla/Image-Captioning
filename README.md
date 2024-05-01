@@ -7,6 +7,11 @@
 
 
 
+## Credits
 
+This Repo includes the code from the following repository:
 
-Reference: https://github.com/iamirmasoud/image_captioning
+- [Original Repository Name](https://github.com/iamirmasoud/image_captioning)
+
+Special thanks to [link-to-original-author-profile](https://github.com/iamirmasoud) for their contribution.
+
