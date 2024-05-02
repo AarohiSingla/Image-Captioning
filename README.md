@@ -1,5 +1,7 @@
 ### Image Captioning using CNN-RNN Architecture
 
+#### Video tutorial: https://youtu.be/htNmFL2BG34
+
 ![img_cap_model_parial](https://github.com/AarohiSingla/Image-Captioning/assets/60029146/3665bf55-22df-4cfa-86f9-9ae3f8ba106d)
 
 The CNN-RNN architecture for image captioning consists of two main components: the CNN encoder and the RNN decoder.
