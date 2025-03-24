@@ -4,7 +4,7 @@ scikit-image
 torch>=2.1.2
 nltk~=3.7
 torchvision~=0.9.1
-numpy~=1.21.6
+numpy>=1.22
 Pillow>=10.3.0
 tqdm~=4.64.0
 jupyter==1.0.0
