@@ -8,5 +8,5 @@ numpy~=1.21.6
 pillow~=9.1.1
 tqdm~=4.64.0
 jupyter==1.0.0
-opencv-python==4.6.0.66
+opencv-python>=4.8.1.78
 gradio>=5.11.0
